@@ -1,0 +1,11 @@
+Match_ID,Season,Team 1,Team 2,Venue,Winner,Useless_Column_A,Useless_Column_B
+METADATA_ROW_1,2026,,,,,X,1
+METADATA_ROW_2,2026,,,,,Y,2
+101,2026,CSK,MI,Wankhede,CSK,Data,3
+102,2026,MI,RCB,M Chinnaswamy,RCB,Data,4
+103,2026,RCB,CSK,MA Chidambaram,,Data,5
+104,2026,CSK,MI,Wankhede,CSK,Data,6
+105,2026,MI,RCB,M Chinnaswamy,RCB,Data,7
+106,2026,KKR,SRH,Eden Gardens,KKR,Data,8
+107,2026,RCB,CSK,MA Chidambaram,CSK,Data,9
+108,2026,GT,RR,Narendra Modi Stadium,GT,Data,10
